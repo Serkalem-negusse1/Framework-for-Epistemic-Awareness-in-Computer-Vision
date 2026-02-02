@@ -6,16 +6,13 @@ This repository implements a framework for **Epistemic Awareness** in Deep Learn
 
 As highlighted in Ruwuya et al. (2025), epistemic racism is a system that privileges Western perspectives while marginalizing non-Western knowledge. In Computer Vision, this manifests as:
 
-* 
-**Provincial Universalism**: Assuming models trained on Western datasets have "universal relevance".
+* **Provincial Universalism**: Assuming models trained on Western datasets have "universal relevance".
 
 
-* 
-**Stereotyping as Logic**: Models inadvertently reinforcing racial ideologies by treating marginalized groups as "outliers" or "primitive" contexts.
+* **Stereotyping as Logic**: Models inadvertently reinforcing racial ideologies by treating marginalized groups as "outliers" or "primitive" contexts.
 
 
-* 
-**Institutional Exclusion**: A lack of representation from the Global South in defining the "success" and "accuracy" metrics of a model.
+* **Institutional Exclusion**: A lack of representation from the Global South in defining the "success" and "accuracy" metrics of a model.
 
 
 
@@ -38,12 +35,10 @@ The code includes "Friction" check-points designed to challenge the assumption t
 ##  How to Use
 
 1. **Open the Colab Notebook**: Launch the provided `.ipynb` file.
-2. 
-**Reflexive Practice**: Users are encouraged to maintain a "Reflexive Journal" while labeling data to address internalized worldviews.
+2. **Reflexive Practice**: Users are encouraged to maintain a "Reflexive Journal" while labeling data to address internalized worldviews.
 
 
-3. 
-**Adaptive Methodologies**: Use the included `Race-Based Methodology` scripts to shift thinking away from normative, hegemonic frameworks.
+3. **Adaptive Methodologies**: Use the included `Race-Based Methodology` scripts to shift thinking away from normative, hegemonic frameworks.
 
 
 
@@ -51,16 +46,13 @@ The code includes "Friction" check-points designed to challenge the assumption t
 
 This project is an intentional effort to address the "subtle yet pervasive" form of racism in knowledge production. We advocate for:
 
-* 
-**Increased Inclusion**: Ensuring research participants and their communities have a voice in the process.
+* **Increased Inclusion**: Ensuring research participants and their communities have a voice in the process.
 
 
-* 
-**Diversified Leadership**: Prioritizing scholars from developing countries to lead studies and model design.
+* **Diversified Leadership**: Prioritizing scholars from developing countries to lead studies and model design.
 
 
-* 
-**Challenging the Status Quo**: Rejecting the "one size fits all" approach that fails to account for diverse cultural and economic contexts.
+* **Challenging the Status Quo**: Rejecting the "one size fits all" approach that fails to account for diverse cultural and economic contexts.
 
 
 
